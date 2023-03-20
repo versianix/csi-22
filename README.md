@@ -1,1 +1,1 @@
-# csi-22
+# This is a repository of solutions for my OOP university subject.
